@@ -1,7 +1,7 @@
 {
-  "name": "telegram",
-  "version": "2.26.8",
-  "description": "NodeJS/Browser MTProto API Telegram client library,",
+  "name": "telegram-gifts",
+  "version": "2.26.10",
+  "description": "Fork of telegram(gramjs) with gifts support",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gram-js/gramjs.git"
+    "url": "git+https://github.com/kvs-jetton/gifts-gramjs"
   },
   "browser": {
     "fs": false
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gram-js/gramjs/issues"
+    "url": "https://github.com/kvs-jetton/gifts-gramjs/issues"
   },
   "keywords": [
     "telegram",
@@ -24,7 +24,7 @@
     "userbot",
     "api"
   ],
-  "homepage": "https://github.com/gram-js/gramjs#readme",
+  "homepage": "https://github.com/kvs-jetton/gifts-gramjs#readme",
   "optionalDependencies": {
     "bufferutil": "^4.0.3",
     "utf-8-validate": "^5.0.5"
